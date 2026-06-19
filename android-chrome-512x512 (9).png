@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Business Idea Validation Services | DeAlba & Sons LLC</title>
+  <meta name="description" content="Explore DeAlba & Sons services: Opportunity Viability Assessment, validation sprint, launch blueprint, AI operations audit, and strategic advisory.">
+  <link rel="canonical" href="https://dealbaandsons.com/services/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Business Idea Validation Services | DeAlba & Sons LLC">
+  <meta property="og:description" content="Explore DeAlba & Sons services: Opportunity Viability Assessment, validation sprint, launch blueprint, AI operations audit, and strategic advisory.">
+  <meta property="og:url" content="https://dealbaandsons.com/services/">
+  <meta property="og:image" content="https://dealbaandsons.com/assets/de-alba-and-sons-og.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="theme-color" content="#050508">
+  <link rel="shortcut icon" href="/favicon.ico?v=20260619c">
+  <link rel="icon" href="/favicon.ico?v=20260619c" sizes="any">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg?v=20260619c">
+  <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png?v=20260619c">
+  <link rel="icon" type="image/png" sizes="64x64" href="/favicon-64x64.png?v=20260619c">
+  <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48x48.png?v=20260619c">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=20260619c">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=20260619c">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=20260619c">
+  <link rel="mask-icon" href="/favicon.svg?v=20260619c" color="#8f3dff">
+  <link rel="manifest" href="/site.webmanifest?v=20260619c">
+  <meta name="msapplication-TileColor" content="#050508">
+  <meta name="msapplication-config" content="/browserconfig.xml?v=20260619c">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "DeAlba & Sons Services",
+  "itemListElement": [
+    {
+      "@type": "Service",
+      "name": "Opportunity Viability Assessment"
+    },
+    {
+      "@type": "Service",
+      "name": "Business Idea Validation Sprint"
+    },
+    {
+      "@type": "Service",
+      "name": "Launch Readiness Blueprint"
+    },
+    {
+      "@type": "Service",
+      "name": "AI-Enabled Operations Audit"
+    },
+    {
+      "@type": "Service",
+      "name": "Strategic Advisory"
+    }
+  ]
+}</script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="container nav">
+      <a class="brand brand-logo-link" href="/" aria-label="DeAlba & Sons LLC home">
+        <img class="brand-logo" src="/assets/de-alba-logo-transparent.svg" width="310" height="75" alt="DeAlba & Sons LLC">
+      </a>
+      <button class="mobile-toggle" type="button" data-menu-toggle aria-expanded="false" aria-controls="primary-navigation">Menu</button>
+      <nav class="nav-links" id="primary-navigation" aria-label="Primary navigation">
+        <a href="/">Home</a>
+        <a href="/ova/">OVA</a>
+        <a href="/services/" aria-current="page">Services</a>
+        <a href="/process/">Process</a>
+        <a href="/about/">About</a>
+      </nav>
+      <div class="nav-cta"><a class="btn btn-small btn-primary" href="/book/">Book Your OVA</a></div>
+    </div>
+  </header>
+
+  <main id="main">
+
+    <section class="page-hero"><div class="container"><div class="breadcrumbs"><a href="/">Home</a> / Services</div><span class="eyebrow">Premium services</span><h1>Consulting built around better decisions.</h1><p class="lead">Each service exists to reduce wasted spending, strengthen founder judgment, and turn uncertainty into a cleaner next move.</p></div></section>
+    <section class="section"><div class="container grid">
+      <article class="offer-card reveal"><div><div class="label">01 / Front door</div><h2>Opportunity Viability Assessment</h2><p>A focused written diagnostic for founders before launch spending. Best for early-stage ideas, unclear customer logic, or expensive next steps that need evidence.</p><a class="card-link" href="/ova/">Open OVA page</a></div><div class="offer-meta"><p class="small">Deliverable</p><p>Written go, validate-first, pivot, or stop recommendation.</p></div></article>
+      <article class="offer-card reveal"><div><div class="label">02 / Deeper validation</div><h2>Business Idea Validation Sprint</h2><p>A deeper engagement for ideas that pass the first filter and need stronger market evidence, offer clarity, buyer research, and a 30-60-90 day action path.</p></div><div class="offer-meta"><p class="small">Best after</p><p>OVA, qualified referral, or strong early demand signals.</p></div></article>
+      <article class="offer-card reveal"><div><div class="label">03 / Launch execution</div><h2>Launch Readiness Blueprint</h2><p>A structured launch roadmap covering offer positioning, operating tools, workflow, first customer path, and practical execution sequencing.</p></div><div class="offer-meta"><p class="small">Best for</p><p>Validated ideas ready for disciplined launch planning.</p></div></article>
+      <article class="offer-card reveal"><div><div class="label">04 / Existing business</div><h2>AI-Enabled Operations Audit</h2><p>An operations review for businesses that want to use AI without creating false confidence, tool sprawl, or fragile workflows.</p></div><div class="offer-meta"><p class="small">Best for</p><p>Small businesses with messy manual processes.</p></div></article>
+      <article class="offer-card reveal"><div><div class="label">05 / Select advisory</div><h2>Strategic Advisory</h2><p>Ongoing guidance for founders who have already completed a diagnostic and need decision support, accountability, and clean sequencing.</p></div><div class="offer-meta"><p class="small">Access</p><p>By fit after a completed diagnostic.</p></div></article>
+    </div></section>
+    <section class="section-tight"><div class="container cta-panel reveal"><h2>Start with the front door.</h2><p class="lead">Most founders do not need a giant engagement first. They need a clear diagnostic.</p><a class="btn btn-primary" href="/book/">Book Your OVA</a></div></section>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <a class="footer-logo-home" href="/" aria-label="Return to DeAlba & Sons LLC home">
+          <img class="footer-logo" src="/assets/de-alba-logo-transparent.svg" width="330" height="80" alt="DeAlba & Sons LLC">
+        </a>
+        <p style="margin-top:18px;max-width:520px;">Premium founder diagnostics for business ideas, launch decisions, and AI-enabled operations. Built for people who want clarity before they spend serious money.</p>
+      </div>
+      <div>
+        <div class="label">Pages</div>
+        <div class="footer-links" style="margin-top:16px;">
+          <a href="/ova/">Opportunity Viability Assessment</a>
+          <a href="/services/">Services</a>
+          <a href="/process/">Process</a>
+          <a href="/about/">About</a>
+          <a href="/book/">Book</a>
+        </div>
+      </div>
+      <div>
+        <div class="label">Connect</div>
+        <div class="footer-links" style="margin-top:16px;">
+          <a href="/book/">Book a Founder Launch Call</a>
+          <a href="https://www.linkedin.com/in/emanueldealba" target="_blank" rel="noopener">LinkedIn</a>
+          <a href="/privacy/">Privacy</a>
+          <a href="/terms/">Terms</a>
+        </div>
+      </div>
+    </div>
+    <div class="container footer-bottom">
+      <span>© <span data-year></span> DeAlba &amp; Sons LLC. All rights reserved.</span>
+      <span>SDVOSB-certified | Service-Disabled Veteran-Owned Small Business</span>
+      <span>Prestige, evidence, and decision clarity before commitment.</span>
+    </div>
+  </footer>
+
+  <a class="home-float" href="/" aria-label="Return to DeAlba & Sons home">
+    <img src="/assets/de-alba-mark-transparent.svg" width="32" height="32" alt=""><span>Home</span>
+  </a>
+  <script src="/assets/main.js" defer></script>
+</body>
+</html>

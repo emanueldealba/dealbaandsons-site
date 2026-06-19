@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Emanuel DeAlba | DeAlba & Sons LLC</title>
+  <meta name="description" content="Learn about Emanuel DeAlba, MBA graduate, DBA candidate, U.S. Air Force veteran, and founder of DeAlba & Sons LLC.">
+  <link rel="canonical" href="https://dealbaandsons.com/about/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="About Emanuel DeAlba | DeAlba & Sons LLC">
+  <meta property="og:description" content="Learn about Emanuel DeAlba, MBA graduate, DBA candidate, U.S. Air Force veteran, and founder of DeAlba & Sons LLC.">
+  <meta property="og:url" content="https://dealbaandsons.com/about/">
+  <meta property="og:image" content="https://dealbaandsons.com/assets/de-alba-and-sons-og.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="theme-color" content="#050508">
+  <link rel="shortcut icon" href="/favicon.ico?v=20260619c">
+  <link rel="icon" href="/favicon.ico?v=20260619c" sizes="any">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg?v=20260619c">
+  <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png?v=20260619c">
+  <link rel="icon" type="image/png" sizes="64x64" href="/favicon-64x64.png?v=20260619c">
+  <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48x48.png?v=20260619c">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=20260619c">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=20260619c">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=20260619c">
+  <link rel="mask-icon" href="/favicon.svg?v=20260619c" color="#8f3dff">
+  <link rel="manifest" href="/site.webmanifest?v=20260619c">
+  <meta name="msapplication-TileColor" content="#050508">
+  <meta name="msapplication-config" content="/browserconfig.xml?v=20260619c">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Emanuel DeAlba",
+  "jobTitle": "Founder and Strategic Advisor",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "DeAlba & Sons LLC"
+  },
+  "image": "https://dealbaandsons.com/assets/emanuel-dealba-profile.webp",
+  "description": "MBA graduate, Doctor of Business Administration candidate, United States Air Force veteran, and founder of DeAlba & Sons LLC."
+}</script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="container nav">
+      <a class="brand brand-logo-link" href="/" aria-label="DeAlba & Sons LLC home">
+        <img class="brand-logo" src="/assets/de-alba-logo-transparent.svg" width="310" height="75" alt="DeAlba & Sons LLC">
+      </a>
+      <button class="mobile-toggle" type="button" data-menu-toggle aria-expanded="false" aria-controls="primary-navigation">Menu</button>
+      <nav class="nav-links" id="primary-navigation" aria-label="Primary navigation">
+        <a href="/">Home</a>
+        <a href="/ova/">OVA</a>
+        <a href="/services/">Services</a>
+        <a href="/process/">Process</a>
+        <a href="/about/" aria-current="page">About</a>
+      </nav>
+      <div class="nav-cta"><a class="btn btn-small btn-primary" href="/book/">Book Your OVA</a></div>
+    </div>
+  </header>
+
+  <main id="main">
+
+    <section class="page-hero"><div class="container"><div class="breadcrumbs"><a href="/">Home</a> / About</div><span class="eyebrow">Founder profile</span><h1>Built from discipline, analysis, and execution.</h1><p class="lead">DeAlba &amp; Sons exists to help founders make smarter commitments before they spend real money.</p></div></section>
+    <section class="section"><div class="container split"><div class="profile-frame reveal"><img src="/assets/emanuel-dealba-profile.webp" alt="Emanuel DeAlba professional portrait" width="1200" height="1200"></div><div class="reveal"><span class="eyebrow">Emanuel DeAlba</span><h2>Founder and Strategic Advisor</h2><p class="lead">Emanuel DeAlba is an MBA graduate, Doctor of Business Administration candidate in Organizational Leadership and Development, United States Air Force veteran, published author, and founder of DeAlba &amp; Sons LLC.</p><p>His work blends operational discipline, founder decision-making, AI-enabled analysis, and practical business judgment. DeAlba &amp; Sons was built around a direct belief: founders should validate before they launch, spend, scale, or lock themselves into a weak idea.</p><div class="credential-list"><div class="credential"><span>✦</span><strong>MBA graduate</strong></div><div class="credential"><span>✦</span><strong>DBA candidate in Organizational Leadership and Development</strong></div><div class="credential"><span>✦</span><strong>United States Air Force veteran</strong></div><div class="credential"><span>✦</span><strong>Founder decision architecture and AI-enabled analysis</strong></div></div></div></div></section>
+    <section class="section dark-band"><div class="container section-head reveal"><div><span class="eyebrow">Philosophy</span><h2>Truth before polish.</h2></div><p>The firm is not built to sell hype. It is built to help founders confront the business reality underneath the idea.</p></div><div class="container grid grid-3"><article class="card reveal"><h3>Prestige</h3><p>Prestige means restraint, clarity, taste, and seriousness. Not noise.</p></article><article class="card reveal"><h3>Evidence</h3><p>Every serious commitment should be earned by proof, not excitement.</p></article><article class="card reveal"><h3>Execution</h3><p>When the idea earns the next step, the next step should be clean, focused, and actionable.</p></article></div></section>
+    <section class="section-tight"><div class="container cta-panel reveal"><h2>Work with the decision layer first.</h2><p class="lead">Before strategy, branding, tools, or ads, decide whether the idea deserves the investment.</p><a class="btn btn-primary" href="/book/">Book Your OVA</a></div></section>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <a class="footer-logo-home" href="/" aria-label="Return to DeAlba & Sons LLC home">
+          <img class="footer-logo" src="/assets/de-alba-logo-transparent.svg" width="330" height="80" alt="DeAlba & Sons LLC">
+        </a>
+        <p style="margin-top:18px;max-width:520px;">Premium founder diagnostics for business ideas, launch decisions, and AI-enabled operations. Built for people who want clarity before they spend serious money.</p>
+      </div>
+      <div>
+        <div class="label">Pages</div>
+        <div class="footer-links" style="margin-top:16px;">
+          <a href="/ova/">Opportunity Viability Assessment</a>
+          <a href="/services/">Services</a>
+          <a href="/process/">Process</a>
+          <a href="/about/">About</a>
+          <a href="/book/">Book</a>
+        </div>
+      </div>
+      <div>
+        <div class="label">Connect</div>
+        <div class="footer-links" style="margin-top:16px;">
+          <a href="/book/">Book a Founder Launch Call</a>
+          <a href="https://www.linkedin.com/in/emanueldealba" target="_blank" rel="noopener">LinkedIn</a>
+          <a href="/privacy/">Privacy</a>
+          <a href="/terms/">Terms</a>
+        </div>
+      </div>
+    </div>
+    <div class="container footer-bottom">
+      <span>© <span data-year></span> DeAlba &amp; Sons LLC. All rights reserved.</span>
+      <span>SDVOSB-certified | Service-Disabled Veteran-Owned Small Business</span>
+      <span>Prestige, evidence, and decision clarity before commitment.</span>
+    </div>
+  </footer>
+
+  <a class="home-float" href="/" aria-label="Return to DeAlba & Sons home">
+    <img src="/assets/de-alba-mark-transparent.svg" width="32" height="32" alt=""><span>Home</span>
+  </a>
+  <script src="/assets/main.js" defer></script>
+</body>
+</html>
