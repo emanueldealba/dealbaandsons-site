@@ -1,4 +1,9 @@
 # DeAlba & Sons LLC Netlify redirects
+# Canonical domain
+https://www.dealbaandsons.com/* https://dealbaandsons.com/:splat 301!
+http://www.dealbaandsons.com/* https://dealbaandsons.com/:splat 301!
+http://dealbaandsons.com/* https://dealbaandsons.com/:splat 301!
+
 # Pretty URLs served by flat HTML files
 /ova/ /ova.html 200
 /services/ /services.html 200

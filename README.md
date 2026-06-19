@@ -27,3 +27,10 @@ Publish directory: `.`
 This repo uses the final DeAlba & Sons black/ivory/champagne-gold identity. Do not reintroduce purple, neon gradients, generic AI graphics, or gimmicky motion backgrounds. The home button uses `brand-home-logo-ivory.png`. The favicon uses the new DeAlba mark.
 
 Primary conversion goal: Book Your OVA / Founder Launch Call.
+
+
+## SEO and Stripe update
+
+This build removes public phone/address/email structured data, uses a controlled title/meta description system, and includes public Stripe Payment Link placeholders in `payment-links.js`.
+
+Only paste public Stripe Payment Links beginning with `https://buy.stripe.com/`. Never add Stripe secret keys to this repo.

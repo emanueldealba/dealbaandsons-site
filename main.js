@@ -17,3 +17,22 @@ const observer = new IntersectionObserver((entries) => {
 }, { threshold: 0.12 });
 
 document.querySelectorAll('.reveal').forEach((el) => observer.observe(el));
+
+
+// Activate Stripe Payment Links only when public URLs are configured in payment-links.js.
+(function () {
+  const links = window.DEALBA_STRIPE_LINKS || {};
+  const section = document.querySelector('[data-payment-section]');
+  if (!section) return;
+  let visible = false;
+  document.querySelectorAll('[data-stripe-link]').forEach((el) => {
+    const key = el.getAttribute('data-stripe-link');
+    const url = links[key];
+    if (url && /^https:\/\/buy\.stripe\.com\//.test(url)) {
+      el.href = url;
+      el.hidden = false;
+      visible = true;
+    }
+  });
+  if (visible) section.hidden = false;
+})();

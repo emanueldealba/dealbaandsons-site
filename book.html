@@ -3,29 +3,39 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Book Your 30-Minute Founder Launch Call | DeAlba & Sons LLC</title>
-  <meta name="description" content="Book a 30-minute founder launch call with DeAlba & Sons LLC to decide whether an Opportunity Viability Assessment is the right next move before launch spending.">
+  <title>Book a Founder Launch Call | DeAlba & Sons</title>
+  <meta name="description" content="Book a 30-minute founder launch call to discuss your business idea, planned spend, and whether an Opportunity Viability Assessment is the right next move.">
   <link rel="canonical" href="https://dealbaandsons.com/book/">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Book Your 30-Minute Founder Launch Call | DeAlba & Sons LLC">
-  <meta property="og:description" content="Book a 30-minute founder launch call with DeAlba & Sons LLC to decide whether an Opportunity Viability Assessment is the right next move before launch spending.">
+  <meta property="og:site_name" content="DeAlba & Sons">
+  <meta property="og:title" content="Book a Founder Launch Call | DeAlba & Sons">
+  <meta property="og:description" content="Book a 30-minute founder launch call to discuss your business idea, planned spend, and whether an Opportunity Viability Assessment is the right next move.">
   <meta property="og:url" content="https://dealbaandsons.com/book/">
   <meta property="og:image" content="https://dealbaandsons.com/brand-og.jpg">
   <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Book a Founder Launch Call | DeAlba & Sons">
+  <meta name="twitter:description" content="Book a 30-minute founder launch call to discuss your business idea, planned spend, and whether an Opportunity Viability Assessment is the right next move.">
+  <meta name="twitter:image" content="https://dealbaandsons.com/brand-og.jpg">
+  <meta name="robots" content="index, follow, max-snippet:180, max-image-preview:large, max-video-preview:-1">
+  <meta name="googlebot" content="index, follow, max-snippet:180, max-image-preview:large, max-video-preview:-1">
   <meta name="theme-color" content="#000000">
-  <link rel="shortcut icon" href="/favicon.ico?v=20260619f">
-  <link rel="icon" href="/favicon.ico?v=20260619f" sizes="any">
-  <link rel="icon" type="image/svg+xml" href="/favicon.svg?v=20260619f">
-  <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png?v=20260619f">
-  <link rel="icon" type="image/png" sizes="64x64" href="/favicon-64x64.png?v=20260619f">
-  <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48x48.png?v=20260619f">
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=20260619f">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=20260619f">
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=20260619f">
-  <link rel="mask-icon" href="/favicon.svg?v=20260619f" color="#C7A35A">
-  <link rel="manifest" href="/site.webmanifest?v=20260619f">
+  <meta name="application-name" content="DeAlba & Sons">
+  <meta name="apple-mobile-web-app-title" content="DeAlba & Sons">
+  <link rel="shortcut icon" href="/favicon.ico">
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="icon" type="image/png" sizes="512x512" href="/favicon-512x512.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192x192.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="64x64" href="/favicon-64x64.png">
+  <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48x48.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="mask-icon" href="/favicon.svg" color="#C7A35A">
+  <link rel="manifest" href="/site.webmanifest">
   <meta name="msapplication-TileColor" content="#000000">
-  <meta name="msapplication-config" content="/browserconfig.xml?v=20260619f">
+  <meta name="msapplication-config" content="/browserconfig.xml">
   <link rel="stylesheet" href="/styles.css">
   <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
   <script src="https://assets.calendly.com/assets/external/widget.js" async></script>
@@ -84,6 +94,23 @@
       </div>
     </section>
 
+
+    <section class="section payment-section" data-payment-section hidden>
+      <div class="container split">
+        <div class="reveal">
+          <span class="eyebrow">Secure payment</span>
+          <h2>Ready to move forward?</h2>
+          <p>Use the secure Stripe checkout links below only after fit is confirmed. Pricing is intentionally not listed publicly on the site.</p>
+        </div>
+        <div class="payment-card reveal">
+          <a class="btn btn-primary" data-stripe-link="ovaDeposit" href="#" target="_blank" rel="noopener" hidden>Pay OVA Deposit</a>
+          <a class="btn btn-primary" data-stripe-link="ova" href="#" target="_blank" rel="noopener" hidden>Pay for OVA</a>
+          <a class="btn" data-stripe-link="validationSprint" href="#" target="_blank" rel="noopener" hidden>Pay for Validation Sprint</a>
+          <a class="btn" data-stripe-link="launchBlueprint" href="#" target="_blank" rel="noopener" hidden>Pay for Launch Blueprint</a>
+        </div>
+      </div>
+    </section>
+
     <section class="section dark-band">
       <div class="container split">
         <div class="reveal">
@@ -92,7 +119,7 @@
           <p>Submit a brief intake below. Keep it plain. The goal is not to impress me. The goal is to expose the decision, assumptions, and next planned spend.</p>
         </div>
         <div class="form-wrap reveal">
-          <form name="ova-intake" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/thank-you.html">
+          <form name="ova-intake" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/thank-you/">
             <input type="hidden" name="form-name" value="ova-intake">
             <p style="display:none;"><label>Do not fill this out: <input name="bot-field"></label></p>
             <div class="form-grid">
@@ -149,6 +176,7 @@
   <a class="home-float" href="/" aria-label="Return to DeAlba & Sons home">
     <img src="/favicon-master.png" width="32" height="32" alt=""><span>Home</span>
   </a>
+  <script src="/payment-links.js" defer></script>
   <script src="/main.js" defer></script>
 </body>
 </html>
