@@ -1,21 +1,21 @@
 # DeAlba & Sons LLC Netlify redirects
 # Canonical domain
 https://www.dealbaandsons.com/* https://dealbaandsons.com/:splat 301!
-http://www.dealbaandsons.com/* https://dealbaandsons.com/:splat 301!
 http://dealbaandsons.com/* https://dealbaandsons.com/:splat 301!
+http://www.dealbaandsons.com/* https://dealbaandsons.com/:splat 301!
 
-# Pretty URLs served by flat HTML files
-/ova/ /ova.html 200
-/services/ /services.html 200
-/about/ /about.html 200
-/process/ /process.html 200
-/book/ /book.html 200
-/privacy/ /privacy.html 200
-/terms/ /terms.html 200
-/thank-you/ /thank-you.html 200
-/thank-you /thank-you.html 200
+# Legacy flat-file URLs to clean directory URLs
+/ova.html /ova/ 301
+/services.html /services/ 301
+/about.html /about/ 301
+/process.html /process/ 301
+/book.html /book/ 301
+/privacy.html /privacy/ 301
+/terms.html /terms/ 301
+/thank-you.html /thank-you/ 301
+/paid.html /paid/ 301
 
-# Backward-compatible asset paths. If any page or browser asks for /assets/file, serve the root file.
+# Backward-compatible asset paths
 /assets/* /:splat 200
 
 # Catch-all 404

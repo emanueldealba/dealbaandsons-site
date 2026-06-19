@@ -1,36 +1,73 @@
-# DeAlba & Sons LLC Website
+# DeAlba & Sons LLC Premium Website
 
-Static Netlify site for DeAlbaAndSons.com.
+Static Netlify-ready website for DeAlba & Sons LLC.
 
-## Current architecture
+Production domain:
 
-This repository intentionally uses a flat file structure to avoid GitHub browser-upload folder mistakes.
+https://dealbaandsons.com/
 
-Netlify rewrites pretty URLs such as `/book/` to flat files such as `book.html`.
+## Deployment
 
-## Deploy settings
+This repo is designed for GitHub -> Netlify continuous deployment.
 
-Build command: leave blank.
-Publish directory: `.`
+Netlify settings:
 
-## Critical rules
+- Build command: leave blank
+- Publish directory: .
+- Branch: main
 
-- Do not list the official OVA price publicly.
-- Primary CTA: Book Your OVA / Founder Launch Call.
-- Keep the brand premium, restrained, black / ivory / champagne gold.
-- Do not add fake metrics, fake testimonials, or fake media logos.
-- Keep SDVOSB status in the footer.
+## Clean URL structure
+
+The site now uses real directory pages instead of rewrite-only flat pages:
+
+- `/` -> `index.html`
+- `/ova/` -> `ova/index.html`
+- `/services/` -> `services/index.html`
+- `/process/` -> `process/index.html`
+- `/about/` -> `about/index.html`
+- `/book/` -> `book/index.html`
+- `/privacy/` -> `privacy/index.html`
+- `/terms/` -> `terms/index.html`
+- `/thank-you/` -> `thank-you/index.html`
+- `/paid/` -> `paid/index.html`
+
+This is better for Google Search Console and avoids redirect-error indexing problems.
+
+## Stripe payment links
+
+Do not place secret keys in this repo.
+
+Only add public Stripe Payment Link URLs in `stripe-config.js`.
+
+Example:
+
+```js
+window.DEALBA_STRIPE_LINKS = {
+  ova: "https://buy.stripe.com/your_public_payment_link",
+  validationSprint: "",
+  launchBlueprint: "",
+  operationsAudit: "",
+  advisory: ""
+};
+```
+
+Leave a value blank to keep the related checkout button hidden.
+
+## SEO notes
+
+- Sitemap: `/sitemap.xml`
+- Robots: `/robots.txt`
+- Primary domain: `https://dealbaandsons.com/`
+- LinkedIn company page: `https://www.linkedin.com/company/dealba-and-sons-consulting/`
+- Legal business email: `emanuel@dealbaandsons.com`
+- Do not add public address, phone, fake hours, fake testimonials, fake metrics, or public OVA pricing unless approved.
+
+## Codex instructions
+
+Follow `AGENTS.md` before making edits.
 
 
-## Brand refresh
+## Funnel decision
+Primary conversion path: OVA purchase through Stripe. Secondary path: Founder Launch Fit Call for unclear-fit prospects only. The fit call is not a free assessment.
 
-This repo uses the final DeAlba & Sons black/ivory/champagne-gold identity. Do not reintroduce purple, neon gradients, generic AI graphics, or gimmicky motion backgrounds. The home button uses `brand-home-logo-ivory.png`. The favicon uses the new DeAlba mark.
-
-Primary conversion goal: Book Your OVA / Founder Launch Call.
-
-
-## SEO and Stripe update
-
-This build removes public phone/address/email structured data, uses a controlled title/meta description system, and includes public Stripe Payment Link placeholders in `payment-links.js`.
-
-Only paste public Stripe Payment Links beginning with `https://buy.stripe.com/`. Never add Stripe secret keys to this repo.
+OVA Stripe link: https://buy.stripe.com/14A7sE2ktblL4sF2wt6J201
