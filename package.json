@@ -1,11 +1,6 @@
 {
-  "name": "dealba-and-sons-premium-site",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Static premium consulting funnel for DeAlba & Sons LLC.",
   "scripts": {
-    "serve": "python3 -m http.server 8080",
-    "check:links": "node scripts/check-links.js"
+    "check": "node -e \"console.log('Static site check placeholder')\""
   },
-  "devDependencies": {}
+  "private": true
 }

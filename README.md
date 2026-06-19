@@ -1,26 +1,29 @@
-# DeAlba & Sons LLC Premium Website
+# DeAlba & Sons LLC Website
 
-Static, Netlify-ready website for DeAlba & Sons LLC.
+Static Netlify site for DeAlbaAndSons.com.
 
-## Current production domain
+## Current architecture
 
-https://dealbaandsons.com
+This repository intentionally uses a flat file structure to avoid GitHub browser-upload folder mistakes.
 
-## Deploy on Netlify from GitHub
+Netlify rewrites pretty URLs such as `/book/` to flat files such as `book.html`.
 
-1. Create a new GitHub repository, for example `dealbaandsons-site`.
-2. Upload the contents of this folder to the repository root.
-3. In Netlify, open the current DeAlba site.
-4. Go to **Site configuration > Build & deploy > Link repository**.
-5. Select the GitHub repository.
-6. Build command: leave blank.
-7. Publish directory: `.`
-8. Deploy.
+## Deploy settings
 
-## Codex workflow
+Build command: leave blank.
+Publish directory: `.`
 
-Use Codex against this GitHub repository through pull requests. Do not let Codex publish directly without review.
+## Critical rules
+
+- Do not list the official OVA price publicly.
+- Primary CTA: Book Your OVA / Founder Launch Call.
+- Keep the brand premium, restrained, black / ivory / champagne gold.
+- Do not add fake metrics, fake testimonials, or fake media logos.
+- Keep SDVOSB status in the footer.
+
+
+## Brand refresh
+
+This repo uses the final DeAlba & Sons black/ivory/champagne-gold identity. Do not reintroduce purple, neon gradients, generic AI graphics, or gimmicky motion backgrounds. The home button uses `brand-home-logo-ivory.png`. The favicon uses the new DeAlba mark.
 
 Primary conversion goal: Book Your OVA / Founder Launch Call.
-
-Brand values: Prestige, elegance, restraint, proof before scale, decision clarity before commitment.
