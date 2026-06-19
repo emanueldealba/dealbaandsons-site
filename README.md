@@ -68,6 +68,6 @@ Follow `AGENTS.md` before making edits.
 
 
 ## Funnel decision
-Primary conversion path: OVA purchase through Stripe. Secondary path: Founder Launch Fit Call for unclear-fit prospects only. The fit call is not a free assessment.
+Primary conversion path: OVA purchase through Stripe. Secondary path: short fit question by email only. Do not expose calendar scheduling before payment.
 
 OVA Stripe link: https://buy.stripe.com/14A7sE2ktblL4sF2wt6J201

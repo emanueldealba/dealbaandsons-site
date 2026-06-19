@@ -2,7 +2,7 @@
 
 Brand standard: prestigious, premium, elegant, restrained, evidence-first.
 
-Primary goal: turn qualified founder interest into booked Founder Launch Calls and Opportunity Viability Assessment interest.
+Primary goal: turn qualified founder interest into paid Opportunity Viability Assessment purchases, then paid-client Founder Launch Calls.
 
 Rules:
 
@@ -12,7 +12,7 @@ Rules:
 - Do not add X, Instagram, Facebook, or low-value social links.
 - LinkedIn should point to `https://www.linkedin.com/company/dealba-and-sons-consulting/` unless replaced by a verified company page.
 - Maintain SDVOSB status in footer as a credibility proof point.
-- Maintain primary CTA: Book Your OVA / Founder Launch Call.
+- Maintain primary CTA: Book Your OVA / secure checkout. Public pages must not expose the Calendly link.
 - Maintain clean URL directory pages: `/ova/`, `/services/`, `/process/`, `/about/`, `/book/`.
 - Preserve SEO basics: canonical URL, title, meta description, Open Graph, sitemap, robots.txt, schema, and image alt text.
 - Only add public Stripe Payment Link URLs to `stripe-config.js`. Never add secret keys.
